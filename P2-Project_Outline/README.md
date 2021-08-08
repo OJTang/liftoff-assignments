@@ -7,12 +7,27 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+We will create a web application that will allow a user to create an account, login, search for a book, and check it out (removing book from inventory). The application will allow the user to return the book when they are done with it (adding the book back into inventory). The application will send a notification to the user to confirm that they have checked out a book, remind them of the due date of the book, and to confirm that the book has been returned. 
+
 ### Features
-Include Features here
+User login: Users will be able to create accounts and log in to the application.
+
+Search: Users will be able to search for books.
+
+Filter: Users will be able to browse for books by category.
+
+Checkout/Return: Users will be able to checkout/return books.
+
+Text notifications: Users will receive text notifications about the status of their rental.
+
 ### Technologies
-Include Technologies here
+Spring Boot, Java, Bootstrap, Twilio, MySQL, Thymeleaf, Hibernate, Google Books API
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+We'll learn to work with Google APIs and learn to work with Twilio.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/BSdWDdNq
+
+### Miro Link
+https://miro.com/app/board/o9J_l3L3mmw=/
