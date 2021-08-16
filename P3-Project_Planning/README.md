@@ -8,12 +8,20 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* [Landing Page](https://miro.com/app/board/o9J_l3L3mmw=/?moveToWidget=3074457362259447381&cot=14)
+
+* [Search Page](https://miro.com/app/board/o9J_l3L3mmw=/?moveToWidget=3074457362251312491&cot=14)
+
+* [Book Page](https://miro.com/app/board/o9J_l3L3mmw=/?moveToWidget=3074457362251312489&cot=14)
+
+* [Create Account Page](https://miro.com/app/board/o9J_l3L3mmw=/?moveToWidget=3074457362251312488&cot=14)
+
+* [User Page](https://miro.com/app/board/o9J_l3L3mmw=/?moveToWidget=3074457362251312490&cot=14)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello Board](https://trello.com/b/BSdWDdNq/liftoff)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Liftoff Library](https://github.com/AbbeyKNorthcutt/abbey-liftoff-group-a.git)
